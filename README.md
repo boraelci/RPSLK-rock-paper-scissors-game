@@ -1,2 +1,2 @@
-javac Runner.java\n
+javac Runner.java  
 java Runner
